@@ -1,1 +1,2 @@
-export * from './lib/angular-datepicker/angular-datepicker.component';
+export * from './calendar/calendar.module';
+export * from './calendar/calendar.service';
